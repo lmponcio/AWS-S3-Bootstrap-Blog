@@ -19,6 +19,7 @@ If you want to see the page [Click here](https://lmponcio.github.io/aws-s3-boots
 
 #### Allow website hosting
 <img src="./images/aws-s3-hostallow.jpg" width="600" />
+
 #### Bucket Policy
 ```json
 {
