@@ -1,6 +1,6 @@
 # AWS S3 Bucket Static Web Hosting - Bootstrap Blog 
 
-As an exercise, I hosted an old project of mine (Bootstrap page) in an AWS S3 Bucket.
+As an exercise, I hosted an old project of mine (Bootstrap Responsive Blog) in an AWS S3 Bucket.
 
 In this repository, I show the process I followed to host the website.
 
