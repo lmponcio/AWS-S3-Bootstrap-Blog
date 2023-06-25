@@ -4,7 +4,7 @@ As an exercise, I hosted an old project of mine (Bootstrap Responsive Blog) in a
 
 In this repository, I show the process I followed to host the website.
 
-The page can be seen [here](https://lmponcio.github.io/aws-s3-bootstrap-blog/) (now hosted on Github - I already removed it from AWS).
+The page can be seen [here](https://lmponcio.github.io/AWS-S3-Bootstrap-Blog/) (now hosted on Github - I already removed it from AWS).
 
 <a href="https://lmponcio.github.io/aws-s3-bootstrap-blog/">
 <img src="./images/aws-s3-hosted.jpg" width="600" />
